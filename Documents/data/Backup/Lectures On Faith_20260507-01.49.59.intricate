@@ -34,7 +34,7 @@
       "source_mtime": 1770654895.8541267,
       "caption": "Counterparts",
       "volume": 69,
-      "playback_pos": 348,
+      "playback_pos": 4272,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -88,7 +88,7 @@
       "source_mtime": 1770654522.0095222,
       "caption": "Clay Towers",
       "volume": 44,
-      "playback_pos": 2484,
+      "playback_pos": 6416,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -139,7 +139,6 @@
       "pinned": false,
       "pin_vp_x": 0.0,
       "pin_vp_y": 0.0,
-      "pin_scale": 1.0,
       "cache_key": "",
       "source_path": "C:\\Users\\thisg\\Desktop\\Intricate\\icons\\catnip_sticker_pressed_1024.png",
       "source_size": 0,
@@ -161,7 +160,6 @@
       "pinned": false,
       "pin_vp_x": 0.0,
       "pin_vp_y": 0.0,
-      "pin_scale": 1.0,
       "cache_key": "a93c95e3aaf49a77214e4b7890332b373689cd316d418f22b3b062f01638ebee.png",
       "source_path": "C:\\Users\\thisg\\Desktop\\Intricate\\icons\\github_desktop.png",
       "source_size": 600286,
@@ -183,7 +181,6 @@
       "pinned": false,
       "pin_vp_x": 0.0,
       "pin_vp_y": 0.0,
-      "pin_scale": 1.0,
       "cache_key": "78074f927575afbe1f9f9997f08b90f894b57a56ee2bb36ef3cff25d520f9147.png",
       "source_path": "C:\\Users\\thisg\\Desktop\\Intricate\\icons\\directAudio.png",
       "source_size": 343447,
@@ -340,7 +337,7 @@
       "source_mtime": 1772815582.3416893,
       "caption": "52fe9e48-8a75-4478-babd-d9e7838d6fe0-video",
       "volume": 0,
-      "playback_pos": 5666,
+      "playback_pos": 510,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -504,7 +501,7 @@
       "source_mtime": 1770655083.2261627,
       "caption": "Packing Pile",
       "volume": 0,
-      "playback_pos": 7151,
+      "playback_pos": 2043,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -4190,13 +4187,12 @@
     }
   ],
   "viewport": {
-    "camera_x": 1033.4646050139108,
-    "camera_y": -1395.78513712467,
+    "camera_x": 1035.896286437477,
+    "camera_y": -1393.353455701108,
     "camera_zoom": 0.4112380800833323
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "last_browse_dirs": {},
-  "checksum": "fd57c421222749b4"
+  "checksum": "7bbf67a31d197090"
 }
