@@ -3361,22 +3361,6 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "The trials of Earthly realms.\nNot an absence of experience\nBut rather an integration\nOf all experiences\nInto a state of peace and understanding.\n\nThe purity of intention, of love, and every action.\nThoughts contributing to the collective harmony.\n\nRather than filling your mind\nWith scenarios of what could\nFocus on the present moment.\nObserve changes daily\nWithout the burden of expectation."
-    },
-    {
-      "node_id": 0,
-      "node_type": "about",
-      "title": "Note",
-      "uuid": "dd9aeef17e514b95a610784b873d64b9",
-      "x": 2346.2247311759506,
-      "y": 3675.8768116828955,
-      "width": 1372.0,
-      "height": 29.0,
-      "z_value": -8.859000000000632,
-      "ports_visible": false,
-      "shelf_visible": false,
-      "label": "session residue detected\n(stray .intricate files alongside the live session \u2014 left in place for manual review)\n\n\u2022 Lectures On Faith.intricate",
-      "depth_front": false,
-      "node_tint": ""
     }
   ],
   "connections": [
@@ -4178,13 +4162,13 @@
     }
   ],
   "viewport": {
-    "camera_x": 2346.2247311759506,
-    "camera_y": 3675.8768116828955,
-    "camera_zoom": 0.8017134825176038
+    "camera_x": 5354.310756998701,
+    "camera_y": 3194.564078286162,
+    "camera_zoom": 2.4502873657176396
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
   "last_browse_dirs": {},
-  "checksum": "8a87747b18090224"
+  "checksum": "0f5147ae7e777f6d"
 }
