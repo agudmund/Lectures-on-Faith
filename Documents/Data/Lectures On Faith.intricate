@@ -1762,7 +1762,7 @@
       "uuid": "6f83351525854dcdb4dcb5dc1c3acd03",
       "x": 1856.5375120904287,
       "y": -2218.199525765458,
-      "width": 534.7277590386072,
+      "width": 542.5301851592786,
       "height": 734.3735802123715,
       "z_value": -8.852000000000636,
       "ports_visible": false,
@@ -1773,7 +1773,7 @@
       "source_mtime": 1780310291.341108,
       "caption": "a886fa1a-db37-4e83-9789-297ba6d6e98b-video",
       "volume": 0,
-      "playback_pos": 4388,
+      "playback_pos": 4017,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -2517,7 +2517,7 @@
       "uuid": "990f434290364b8fa8d890b5d9c3931c",
       "x": 1737.0568436702447,
       "y": -686.2866889809004,
-      "width": 414.11917130216233,
+      "width": 417.25660486437465,
       "height": 432.25660486437465,
       "z_value": -8.855000000000635,
       "ports_visible": false,
@@ -2528,7 +2528,7 @@
       "source_mtime": 1780804150.79487,
       "caption": "Packing Pile",
       "volume": 50,
-      "playback_pos": 4333,
+      "playback_pos": 2066,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -4096,8 +4096,8 @@
     }
   ],
   "viewport": {
-    "camera_x": 3345.7522057477327,
-    "camera_y": -944.2000089840426,
+    "camera_x": 2534.249013702978,
+    "camera_y": -385.65915859910706,
     "camera_zoom": 0.6918025776157923
   },
   "ui_migrations": [
@@ -4106,5 +4106,5 @@
   "last_browse_dirs": {
     "image": "C:\\Users\\thebe\\Desktop\\Lectures on Faith\\Pages\\Page Spread"
   },
-  "checksum": "b68e8ce043552469"
+  "checksum": "1a16c604e1ee6705"
 }
